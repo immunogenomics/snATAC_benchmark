@@ -1,0 +1,16 @@
+#To Run:
+
+Rscript ../../NNmetrics.R inputs/demo_RNA_KNN.rds inputs/demo_ATAC_KNN.rds outputs/ demo &> outputs/demo_NN.out
+
+#Versions used
+
+R - 4.3.3 
+Matrix R package - 1.6-5
+stringr R package - 1.5.1
+stringi R package - 1.8.4
+philentropy R package - 0.8.0
+argparse R package - 2.2.3
+
+#Install time - 1 min to download this script
+#Run time - 1 min to run this script
+

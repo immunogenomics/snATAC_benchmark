@@ -1,0 +1,15 @@
+#To Run:
+
+Rscript ../../LISImetrics.R inputs/demo_embedding.rds inputs/demo_meta.rds sample,RNA_state_abbr outputs/ demo &> outputs/demo_LISI.out
+
+#Versions used
+
+R - 4.3.3 
+Matrix R package - 1.6-5
+stringr R package - 1.5.1
+LISI R package - 1.0
+argparse R package - 2.2.3
+
+#Install time - 1 min to download this script
+#Run time - 1 min to run this script
+

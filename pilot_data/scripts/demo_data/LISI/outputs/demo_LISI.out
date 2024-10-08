@@ -1,0 +1,19 @@
+
+2024-10-08 16:35:33.328687 - Library Loading and Defining Functions
+
+2024-10-08 16:35:35.529076 - Argument Checking
+Arguments
+lisi_cols = sample,RNA_state_abbr
+meta_file = inputs/demo_meta.rds
+outDir = outputs/
+prefix = demo
+skip_val_lisi = 
+snATAC_embed_file = inputs/demo_embedding.rds
+
+2024-10-08 16:35:35.540509 - Load files
+
+2024-10-08 16:35:35.597653 - LISI
+        sample RNA_state_abbr 
+      3.202697       1.920897 
+
+2024-10-08 16:35:37.566552 - Done.
