@@ -1,0 +1,1 @@
+The [script](https://github.com/immunogenomics/RA_ATAC_multiome/blob/main/scripts/QC/MACS2_callpeaks_macsPE.py) and [instructions to download the control file](https://github.com/immunogenomics/RA_ATAC_multiome/blob/main/scripts/QC/downloadedInputs/README) to create peaks can be found in [our previous repo](https://github.com/immunogenomics/RA_ATAC_multiome).
