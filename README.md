@@ -2,6 +2,7 @@
 Code corresponding to Weinand et al., Defining effective strategies to integrate multi-sample single-nucleus ATAC-seq datasets via a multimodal-guided approach, Submitted.
 
 Preprint: https://doi.org/10.1101/2025.04.02.646871
+
 Contact: Kathryn Weinand kweinand@fas.harvard.edu
 
 ### Directory information: 
